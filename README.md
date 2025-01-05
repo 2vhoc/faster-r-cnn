@@ -133,4 +133,4 @@ def roi_pool(feature_map, rois, output_size):
 ## Hỗ trợ
 Nếu bạn có bất kỳ câu hỏi nào, vui lòng:
 - Tạo issue trong repo
-- Email: 2vhoc7@email.com
+- Email: 2vhoc7@gmail.com
