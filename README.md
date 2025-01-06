@@ -25,9 +25,10 @@ Mô hình Faster R-CNN bao gồm 3 thành phần chính:
 
 ### Yêu cầu
 ```
-python 3.7+
-pytorch 1.7+
+python 3.12
+pytorch
 torchvision
+torch
 numpy
 opencv-python
 matplotlib
