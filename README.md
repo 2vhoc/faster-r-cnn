@@ -1,4 +1,3 @@
-# Faster R-CNN Tutorial Implementation AsusTUF Gaming F15 i5 11400H RTX 2050
 
 [English](#english) | [Tiếng Việt](#vietnamese)
 
@@ -146,7 +145,6 @@ Nếu bạn có bất kỳ câu hỏi nào, vui lòng:
 
 <div id="english">
 
-# Faster R-CNN Tutorial Implementation AsusTUF Gaming F15 i5 11400H RTX 2050
 
 ## Introduction
 Faster R-CNN is a popular deep learning model for Object Detection. This repository provides a simple implementation of Faster R-CNN to help beginners understand how the model works.
